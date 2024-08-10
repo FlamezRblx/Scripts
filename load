@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamezRblx/Scripts/main/IntX.lua"))()
